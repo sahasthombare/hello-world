@@ -5,7 +5,7 @@
 
   <div class="container">
     <label for="uname"><b>Username</b></label>
-    <input type="text" placeholder="Enter update `Username" name="uname" required>
+    <input type="text" placeholder="Enter final Ci/CD`Username" name="uname" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
